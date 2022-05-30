@@ -35,9 +35,6 @@ class HomeFragment : Fragment() {
                 Toast.makeText(activity, "Please insert Data", Toast.LENGTH_LONG).show()
             }
         }
-
-
-
         return binding.root
     }
 
